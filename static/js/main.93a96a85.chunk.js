@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-lesson"]=this["webpackJsonpreact-lesson"]||[]).push([[0],{3:function(e,r,t){"use strict";t.r(r);var n=t(0),s=t.n(n),a=t(2),o=t.n(a),c=s.a.createElement("a",{href:"https://reactjs.org/",target:"_blank",rel:"noreferrer noopener"},"\u041f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f");o.a.render(c,document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.93a96a85.chunk.js.map
